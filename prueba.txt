@@ -1,0 +1,4 @@
+Esto es una prueba
+
+git config --global user.email "davidfga@educastur.org"
+git config --global user.name "davidfga"
